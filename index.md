@@ -33,7 +33,7 @@ Pybind was incredibly powerful in allowing us to abstract our game engine into b
 
 If we had more time we would have liked to add a layering system for rendering. Currently all gameobjects will render in the order they happen to be in the gameobjects vector in the engine. This means the last one rendered is the one layered on top of each previous one. We would want to be able to control what layer something renders at to give the user flexibility without having to worry about insertion order in the gameobjects vector.
 
-### Team Platformer
+### Team AR^3
 - Ryan Teng
 - Roger Chen
 - Andrew Alcala
