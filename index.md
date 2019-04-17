@@ -19,7 +19,7 @@
 ## Screenshots
 ![img1](p_s1.png)
 ![img2](p_s2.png)
-![img3](p_s3.png)
+![img3](diagram1.png)
 
 
 
